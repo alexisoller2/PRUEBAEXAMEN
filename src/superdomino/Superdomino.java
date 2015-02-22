@@ -1,5 +1,6 @@
 package superdomino;
 import java.util.Scanner;
+//perico los palotes
 public class Superdomino {
     public static void main(String args[]) {
         Scanner introducir = new Scanner(System.in);
